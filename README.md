@@ -1,2 +1,5 @@
-# Curso-Programacion-Bash
-Mas informacion y detalles sobre los comandos en https://devhints.io/bash by Diego Andres Cabrera
+# Bash programming course
+
+Here are some bash files which we can use to execute different very useful commands
+
+
